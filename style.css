@@ -3,7 +3,9 @@ body
   background-color:white;  
   margin: 0;  
   padding: 0;  
-  overflow-x: hidden;  }
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .top-menu
 {
 display: flex;
